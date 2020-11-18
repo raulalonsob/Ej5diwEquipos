@@ -1,0 +1,20 @@
+table, td, th{
+    border: 1px solid black;
+    border-collapse: collapse ;
+}
+.escudo{
+    width: 150px;
+    height: 200px;
+}
+#athletic{
+    width: 150px;
+    height: 150px;
+}
+#madrid{
+    width: 150px;
+    height: 150px;
+}
+#barsa{
+    width: 150px;
+    height: 150px;
+}
